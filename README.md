@@ -37,7 +37,6 @@ My experience ranges from low-level hardware design to building and deploying fu
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" style="margin:5px;"/></a>
   <a href="https://cursor.sh/" target="_blank"><img src="https://img.shields.io/badge/Cursor-232332?style=for-the-badge" alt="Cursor" style="margin:5px;"/></a>
 </p>
-
 ---
 
 ### 🚀 Featured Projects
@@ -58,7 +57,7 @@ This is a selection of projects that showcase my ability to build and deploy end
 I am an active member of a leading research group at the **University of Antioquia**, where I apply my skills in practical and challenging contexts:
 
 *   **GEPAR (Power Electronics, Automation, and Robotics Group):** My current research is focused on applying **Deep Learning and Computer Vision for industrial automation**. Within this area, I developed **YamaLens**, a real-time system for quality control in manufacturing. Currently, I am developing **SIMAYA**, a system to detect pre-assembly kits on a production line to prevent costly stoppages.
-*   *Previously, also focus on the **intelligent automation of processes** in the agro-industrial sector. This includes designing systems for **real-time data monitoring and collection using IoT sensors**, and then using that data to develop **robotics and control solutions** that optimize efficiency and solve operational problems.
+*   *Previously*, also focus on the **intelligent automation of processes** in the agro-industrial sector. This includes designing systems for **real-time data monitoring and collection using IoT sensors**, and then using that data to develop **robotics and control solutions** that optimize efficiency and solve operational problems.
 *   *Previously, with the **GITA** (Applied Telecommunications Research Group), I applied image processing techniques to optimize the manufacturing of optoelectronic devices, automating validation processes with Python scripts.*
 
 ---
