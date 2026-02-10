@@ -46,28 +46,29 @@ This is a selection of projects that showcase my ability to build and deploy end
 
 | Project | Brief Description | What I Learned |
 | :--- | :--- | :--- |
+| 🏭 **YamaLens: Deep Learning for Manufacturing** | A real-time computer vision system using **Deep Learning** to detect, classify, and count motorcycle parts on a production line, automating a manual process. | How to build and fine-tune a deep learning object detection model to solve a concrete industrial problem. I learned to optimize for real-time performance and deliver a solution that directly improves operational efficiency. |
 | 💬 **Cloud-Native WhatsApp Chatbot** | A full-stack chatbot with multiple conversation flows, deployed on **AWS**. Features a RabbitMQ message queue, PostgreSQL DB, and a FastAPI backend. | How to architect and deploy a complete MLOps solution. I learned to integrate decoupled services in the cloud (**RDS, Amazon MQ, App Runner**) and manage a production-ready system from local development to a live API. |
-| 🏭 **YamaLens: CV for Manufacturing** | A real-time computer vision system to detect, classify, and count motorcycle parts on a production line, automating a previously manual process. | How to apply computer vision to solve a tangible business problem. I learned to build an object detection pipeline, handle real-world image data, and deliver a solution that directly improves operational efficiency and traceability. |
 | 🛡️ **AttackScan-IDS: ML for Cybersecurity** | An end-to-end project to build an Intrusion Detection System for IoT networks, including data analysis, model training, and a final prediction pipeline. | How to apply machine learning to a non-traditional domain like cybersecurity. I learned to handle large-scale tabular data, build a complete ML pipeline, and create a dashboard to interpret complex security events. |
-| 🩺 **Pneumonia Detection from X-Rays** | A Deep Learning model to classify chest X-ray images for pneumonia detection, implementing a complete data pipeline from preprocessing to evaluation. | How to apply Deep Learning and Transfer Learning for medical imaging. I learned the importance of data augmentation techniques and the specific challenges of working with sensitive, high-stakes data. |
+| 🩺 **Pneumonia Detection from X-Rays** | A **classic Machine Learning** approach to classify chest X-ray images for pneumonia detection, implementing a complete pipeline from feature extraction to evaluation. | How to engineer and extract meaningful features from image data (e.g., histograms, textures) for use with classical ML models, demonstrating an alternative to end-to-end deep learning. |
 
 ---
 
 ### 🔬 Research and Affiliations
 
-I am an active and committed member of two research groups at the **University of Antioquia**, where I apply and expand my knowledge in practical and challenging contexts:
+I am an active member of a leading research group at the **University of Antioquia**, where I apply my skills in practical and challenging contexts:
 
-*   **GITA (Applied Telecommunications Research Group):** I apply **image processing and data analysis techniques** to optimize the manufacturing of optoelectronic devices. My work involves analyzing images of **heterostructures** to extract critical information about their quality and developing scripts to **automate this validation process**, improving efficiency and reproducibility.
-*   **GEPAR (Power Electronics, Automation, and Robotics Group):** My focus is on the **intelligent automation of processes** in the agro-industrial sector. This includes designing systems for **real-time data monitoring and collection using IoT sensors**, and then using that data to develop **robotics and control solutions** that optimize efficiency and solve operational problems.
+*   **GEPAR (Power Electronics, Automation, and Robotics Group):** My current research is focused on applying **Deep Learning and Computer Vision for industrial automation**. Within this area, I developed **YamaLens**, a real-time system for quality control in manufacturing. Currently, I am developing **SIMAYA**, a system to detect pre-assembly kits on a production line to prevent costly stoppages.
+*   *Previously, also focus on the **intelligent automation of processes** in the agro-industrial sector. This includes designing systems for **real-time data monitoring and collection using IoT sensors**, and then using that data to develop **robotics and control solutions** that optimize efficiency and solve operational problems.
+*   *Previously, with the **GITA** (Applied Telecommunications Research Group), I applied image processing techniques to optimize the manufacturing of optoelectronic devices, automating validation processes with Python scripts.*
 
 ---
 
 ### 🎨 Beyond the Code: Data Storytelling & Communication
 
-I firmly believe that the true impact of an analysis lies in its ability to be communicated clearly and convincingly. My background in **Digital Marketing (Certified)** is not just an additional skill, but an integral part of how I approach data problems:
+I firmly believe that the true impact of an analysis lies in its ability to be communicated clearly. My background in **Digital Marketing** is an integral part of how I approach data problems:
 
-*   **Translating Data into Visual Stories:** Instead of just showing tables and numbers, I use my design experience to create **data visualizations, infographics, and dashboards** that are intuitive and effectively communicate complex findings to both technical and non-technical audiences.
-*   **Focus on User Experience and Business Metrics:** My training in marketing has given me a solid foundation in **analyzing user behavior (UX) and defining KPIs (Key Performance Indicators)**. This allows me not only to build an accurate model but also to understand how to measure its success and align it with business goals.
+*   **Translating Data into Visual Stories:** I use my design experience to create intuitive **data visualizations, infographics, and dashboards** that effectively communicate complex findings to both technical and non-technical audiences.
+*   **Focus on Business Metrics:** My training allows me to not only build accurate models but also to define **KPIs**, analyze user behavior, and align technical solutions with business goals.
 
 ---
 
