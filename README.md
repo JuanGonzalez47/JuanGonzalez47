@@ -31,6 +31,11 @@ My experience ranges from low-level hardware design to building and deploying fu
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" style="margin:5px;"/></a>
   <a href="https://streamlit.io/" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" style="margin:5px;"/></a>
   <br>
+  <!-- AI & LLM -->
+  <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" style="margin:5px;"/></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" style="margin:5px;"/></a>
+  <a href="https://ollama.com/" target="_blank"><img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logoColor=black" alt="Ollama" style="margin:5px;"/></a>
+  <br>
   <!-- Software Development -->
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" style="margin:5px;"/></a>
   <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="margin:5px;"/></a>
@@ -47,7 +52,7 @@ This is a selection of projects that showcase my ability to build and deploy end
 | :--- | :--- | :--- |
 | 🏭 **YamaLens: Deep Learning for Manufacturing** | A real-time computer vision system using **Deep Learning** to detect, classify, and count motorcycle parts on a production line, automating a manual process. | How to build and fine-tune a deep learning object detection model to solve a concrete industrial problem. I learned to optimize for real-time performance and deliver a solution that directly improves operational efficiency. |
 | 💬 **Cloud-Native WhatsApp Chatbot** | A full-stack chatbot with multiple conversation flows, deployed on **AWS**. Features a RabbitMQ message queue, PostgreSQL DB, and a FastAPI backend. | How to architect and deploy a complete MLOps solution. I learned to integrate decoupled services in the cloud (**RDS, Amazon MQ, App Runner**) and manage a production-ready system from local development to a live API. |
-| 🛡️ **AttackScan-IDS: ML for Cybersecurity** | An end-to-end project to build an Intrusion Detection System for IoT networks, including data analysis, model training, and a final prediction pipeline. | How to apply machine learning to a non-traditional domain like cybersecurity. I learned to handle large-scale tabular data, build a complete ML pipeline, and create a dashboard to interpret complex security events. |
+| 🔬 **SciLitRAG: Low-Resource Scientific RAG** | A retrieval-augmented generation system for scientific literature running on CPU. Combines bi-encoder retrieval with cross-encoder reranking to achieve **MRR 0.929** and **Recall@5 1.000** on a 30-query benchmark across 10 arXiv papers. | How to design and evaluate retrieval architectures for scientific text. I learned to combine bi-encoder embeddings, FAISS indexing, and cross-encoder reranking into a system that achieves MRR 0.929 without GPU infrastructure. |
 | 🩺 **Pneumonia Detection from X-Rays** | A **classic Machine Learning** approach to classify chest X-ray images for pneumonia detection, implementing a complete pipeline from feature extraction to evaluation. | How to engineer and extract meaningful features from image data (e.g., histograms, textures) for use with classical ML models, demonstrating an alternative to end-to-end deep learning. |
 
 ---
@@ -56,8 +61,8 @@ This is a selection of projects that showcase my ability to build and deploy end
 
 I am an active member of a leading research group at the **University of Antioquia**, where I apply my skills in practical and challenging contexts:
 
-*   **GEPAR (Power Electronics, Automation, and Robotics Group):** My current research is focused on applying **Deep Learning and Computer Vision for industrial automation**. Within this area, I developed **YamaLens**, a real-time system for quality control in manufacturing. Currently, I am developing **SIMAYA**, a system to detect pre-assembly kits on a production line to prevent costly stoppages.
-*   *Previously*, also focus on the **intelligent automation of processes** in the agro-industrial sector. This includes designing systems for **real-time data monitoring and collection using IoT sensors**, and then using that data to develop **robotics and control solutions** that optimize efficiency and solve operational problems.
+*   **GEPAR (Power Electronics, Automation, and Robotics Group):** My current research is focused on applying **Deep Learning and Computer Vision for industrial automation**. Within this area, I developed **YamaLens**, a real-time system for quality control in manufacturing. I also developed **SIMAYA**, a system to detect pre-assembly kits on a production line to prevent costly stoppages.
+*   *Previously*, also focused on the **intelligent automation of processes** in the agro-industrial sector. This includes designing systems for **real-time data monitoring and collection using IoT sensors**, and then using that data to develop **robotics and control solutions** that optimize efficiency and solve operational problems.
 *   *Previously, with the **GITA** (Applied Telecommunications Research Group), I applied image processing techniques to optimize the manufacturing of optoelectronic devices, automating validation processes with Python scripts.*
 
 ---
