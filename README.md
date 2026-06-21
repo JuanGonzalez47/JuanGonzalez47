@@ -42,6 +42,7 @@ My experience ranges from low-level hardware design to building and deploying fu
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" style="margin:5px;"/></a>
   <a href="https://cursor.sh/" target="_blank"><img src="https://img.shields.io/badge/Cursor-232332?style=for-the-badge" alt="Cursor" style="margin:5px;"/></a>
 </p>
+
 ---
 
 ### 🚀 Featured Projects
