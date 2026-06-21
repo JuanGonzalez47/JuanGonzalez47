@@ -63,7 +63,7 @@ This is a selection of projects that showcase my ability to build and deploy end
 I am an active member of a leading research group at the **University of Antioquia**, where I apply my skills in practical and challenging contexts:
 
 *   **GEPAR (Power Electronics, Automation, and Robotics Group):** My current research is focused on applying **Deep Learning and Computer Vision for industrial automation**. Within this area, I developed **YamaLens**, a real-time system for quality control in manufacturing. I also developed **SIMAYA**, a system to detect pre-assembly kits on a production line to prevent costly stoppages.
-*   *Previously*, also focused on the **intelligent automation of processes** in the agro-industrial sector. This includes designing systems for **real-time data monitoring and collection using IoT sensors**, and then using that data to develop **robotics and control solutions** that optimize efficiency and solve operational problems.
+*   *Previously, also focused on intelligent automation of processes in the agro-industrial sector. This includes designing systems for real-time data monitoring and collection using IoT sensors, and then using that data to develop robotics and control solutions that optimize efficiency and solve operational problems. As a complementary line, designed and validated PID, frequency-domain, and state-space controllers for a 2-DOF exoskeleton in MuJoCo physics simulation.*
 *   *Previously, with the **GITA** (Applied Telecommunications Research Group), I applied image processing techniques to optimize the manufacturing of optoelectronic devices, automating validation processes with Python scripts.*
 
 ---
